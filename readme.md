@@ -26,3 +26,6 @@ Other References:
 http://davidhuynh.net/spaces/nicar2011/tutorial.pdf
 
 [Cleaning Data with OpenRefine | Programming Historian](https://programminghistorian.org/lessons/cleaning-data-with-openrefine)
+
+One Gnarly Dataset for Fun!
+Kiley, R.. (2014, March 17). Wellcome Trust APC spend 2012-13: data file (Version 1). Wellcome Trust. https://doi.org/10.6084/m9.figshare.963054.v1
